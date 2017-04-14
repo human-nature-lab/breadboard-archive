@@ -1,6 +1,8 @@
 README - breadboard v2 
 =====================================
 
+[![Join the chat at https://gitter.im/breadboard-help/Lobby](https://badges.gitter.im/breadboard-help/Lobby.svg)](https://gitter.im/breadboard-help/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 breadboard is a software platform for developing and conducting human interaction experiments on networks. 
 
 It allows researchers to rapidly design experiments using a flexible domain-specific language and provides researchers with immediate access to a diverse pool of online participants.
