@@ -1,3 +1,6 @@
+NOTE: This repository has been replaced by the public repo with source code [here](https://github.com/human-nature-lab/breadboard).
+=====================================
+
 README - breadboard v2 
 =====================================
 
